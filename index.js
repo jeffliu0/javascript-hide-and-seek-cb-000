@@ -7,7 +7,7 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-  document.getElementsByClassName('ranked-list').parseInt(n,2)
+  document.getElementsByClassName('ranked-list').parseInt('1',2)
 }
 
 function deepestChild(){
