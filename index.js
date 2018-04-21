@@ -3,7 +3,7 @@ function getFirstSelector(selectors){
 }
 
 function nestedTarget(){
-
+  return document.querySelector('')
 }
 
 function increaseRankBy(n){
@@ -11,5 +11,5 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-  
+
 }
