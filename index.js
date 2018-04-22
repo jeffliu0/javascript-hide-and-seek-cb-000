@@ -20,4 +20,5 @@ function deepestChild(){
     deep = deep.childNodes
   }
 
+  return deep
 }
