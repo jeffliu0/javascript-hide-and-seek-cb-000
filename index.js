@@ -17,7 +17,7 @@ function deepestChild(){
   var deep = document.getElementById('grand-node')
 
   while(deep.hasChildNodes()){
-    deep = deep.childNodes
+    deep = deep.firstElementChild
   }
 
   return deep
